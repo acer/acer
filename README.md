@@ -1,4 +1,13 @@
-### Hi there 👋
+### 你好！ 👋
+
+I'm an electrical engineer at [Swift Navigation](https://www.swiftnav.com), building fun little [modules](https://www.swiftnav.com/precision-gnss-module) and [full-blown products](https://www.swiftnav.com/piksi-multi) that give you amazingly precise positioning.
+
+Hit me up if you're into collabing on
+- Building games on a [Playdate](https://play.date)
+- Making art or graphics for zines and/or newsletters
+- Building or making music with synths
+- Anything cooking and eating, well, food
+
 
 <!--
 **acer/acer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
