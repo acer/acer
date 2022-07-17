@@ -2,11 +2,13 @@
 
 I'm an electrical engineer at [Swift Navigation](https://www.swiftnav.com), building fun little [modules](https://www.swiftnav.com/precision-gnss-module) and [full-blown products](https://www.swiftnav.com/piksi-multi) that give you amazingly precise positioning.
 
-Hit me up if you're into collabing on
-- Building games on a [Playdate](https://play.date)
+---
+
+Hit me up if you're into
 - Making art or graphics for zines and/or newsletters
 - Building or making music with synths
-- Anything cooking and eating, well, food
+- Dreaming about starting a pop-up restaurant everyday during food-coma
+- Building games on a [Playdate](https://play.date)
 
 
 <!--
