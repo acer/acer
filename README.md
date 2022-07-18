@@ -9,6 +9,7 @@ Hit me up if you're into
 - Building or making music with synths
 - Dreaming about starting a pop-up restaurant everyday during food-coma
 - Building games on a [Playdate](https://play.date)
+- English to Traditional Chinese translation (zh-TW)
 
 
 <!--
