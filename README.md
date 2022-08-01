@@ -7,9 +7,9 @@ I'm an electrical engineer at [Swift Navigation](https://www.swiftnav.com), buil
 Hit me up if you're into
 - Making art or graphics for zines and/or newsletters
 - Building or making music with synths
-- Dreaming about starting a pop-up restaurant everyday during food-coma
 - Building games on a [Playdate](https://play.date)
 - English to Traditional Chinese translation (zh-TW)
+- Dreaming about starting a pop-up restaurant everyday during food-coma
 
 
 <!--
