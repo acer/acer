@@ -1,6 +1,6 @@
 ### 你好！ 👋
 
-I'm an electrical engineer at [Swift Navigation](https://www.swiftnav.com), building fun little [modules](https://www.swiftnav.com/precision-gnss-module) and [full-blown products](https://www.swiftnav.com/piksi-multi) that give you amazingly precise positioning.
+I'm an electrical engineer at GoPro. I was previously at [Swift Navigation](https://www.swiftnav.com), building fun little [modules](https://www.swiftnav.com/precision-gnss-module) and [full-blown products](https://www.swiftnav.com/piksi-multi) that give you amazingly precise positioning.
 
 ---
 
