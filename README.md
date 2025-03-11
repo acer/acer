@@ -1,10 +1,11 @@
 ### 你好！ 👋
 
-I'm an electrical engineer at Meta. I was previously at [GoPro](https://gopro.com) and [Swift Navigation](https://www.swiftnav.com), building fun little modules give you amazingly precise positioning.
+I'm an electrical engineer at Meta. I was previously at [GoPro](https://gopro.com) making action cameras, and [Swift Navigation](https://www.swiftnav.com) building fun little modules give you amazingly precise positioning.
 
 ---
 
-Hit me up if you're into
+I am also part of the [Clement Collective](https://clementcollective.org/) in the Richmond District of San Francisco, a multi-media art collective open to all walks of life. 
+Hit me up if you're into:
 - Making art or graphics for zines and/or newsletters
 - Building or making music with synths
 - Building games on a [Playdate](https://play.date)
