@@ -1,6 +1,6 @@
 ### 你好！ 👋
 
-I'm an electrical engineer at GoPro. I was previously at [Swift Navigation](https://www.swiftnav.com), building fun little modules give you amazingly precise positioning.
+I'm an electrical engineer at Meta. I was previously at [GoPro](https://gopro.com) and [Swift Navigation](https://www.swiftnav.com), building fun little modules give you amazingly precise positioning.
 
 ---
 
